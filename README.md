@@ -1,4 +1,4 @@
-# <a > OnlineBookStore </a> 
+# <a href= target="_blank"> OnlineBookStore </a> 
 - A Java Web Developement Project
 - User Login Credentials: (shashi/shashi)
 - Admin Login Credentials: (Admin/Admin)
@@ -51,8 +51,6 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 ### ================= Dummy Database Initialization =================
 
-FOR SQL
-
 create database if not exists onlinebookstore;
 
 use onlinebookstore;
@@ -81,6 +79,8 @@ insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','
 commit;
 
 ```
+
+
 #### Some Screenshots for the project:
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png">
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png">
@@ -90,6 +90,7 @@ commit;
 
 
 
+
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Piyush Bisht</b>
+                                                                                                         <b>Piyush Bisht </b>
