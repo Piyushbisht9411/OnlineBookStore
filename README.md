@@ -1,4 +1,4 @@
-# <a href= target="_blank"> OnlineBookStore </a> 
+# <a> OnlineBookStore </a> 
 - A Java Web Developement Project
 - User Login Credentials: (shashi/shashi)
 - Admin Login Credentials: (Admin/Admin)
